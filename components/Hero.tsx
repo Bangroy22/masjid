@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="grid md:grid-cols-2 gap-8 items-center">
         <div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Masjid Al-Royyan:<br />
+            Masjid Al-RoyyanSheira<br />
             Pusat Ibadah &<br />
             Komunitas
           </h1>
